@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+OivnfUtPDmAs3IyS3mHIsBse8MqKMuIC5mBPK5SS5g=",
+  "Source": "APIC",
+  "BasePath": "_content/APIC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
